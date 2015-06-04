@@ -1,5 +1,5 @@
 // Karma configuration
-// Generated on Wed Jun 03 2015 23:10:32 GMT+0000 (UTC)
+// Generated on Thu Jun 04 2015 00:40:16 GMT+0000 (UTC)
 
 module.exports = function(config) {
   config.set({
@@ -15,7 +15,8 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'spec.js'
+      'fizz_buzz.js',
+      'fizz_buzz_spec.js'
     ],
 
 
